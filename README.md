@@ -28,3 +28,6 @@ http://regex.inginf.units.it/
 
 http://www.i-programmer.info/programming/perl/9503-automatically-generating-regular-expressions-with-genetic-programming.html
 
+http://www.i-programmer.info/news/90-tools/3398-online-regular-expression-generator.html
+
+http://txt2re.com/index-csharp.php3
