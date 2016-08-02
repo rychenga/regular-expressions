@@ -18,3 +18,9 @@ dynamic field extractor to regular expression free tool
 
 dynamic field extractor to regular expression interactive
 
+Advanced field extractor with modification of an extracted field
+
+Advanced field extractor with multiple positive examples
+
+Automatically generating regular expressions for data field extractions with natural language editing
+
