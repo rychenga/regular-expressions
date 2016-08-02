@@ -24,3 +24,7 @@ Advanced field extractor with multiple positive examples
 
 Automatically generating regular expressions for data field extractions with natural language editing
 
+http://regex.inginf.units.it/
+
+http://www.i-programmer.info/programming/perl/9503-automatically-generating-regular-expressions-with-genetic-programming.html
+
